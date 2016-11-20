@@ -1,0 +1,22 @@
+{
+  "name": "day2-p1",
+  "homepage": "https://github.com/oakratchanon/day2-p1",
+  "authors": [
+    "Ratchanon <ratchanontemsawat13@outlook.co.th>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}
